@@ -271,19 +271,25 @@
   
 
   
-  <div id="SOHUCS" sid="undefined" ></div> 
-<script charset="utf-8" type="text/javascript" src="//changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-    window.changyan.api.config({
-        appid: "true",
-        conf: "true"
-    });
-</script>
-</script>
-  
 
   
 
+  
+  <div id="gitment-ctn"></div> 
+<link rel="stylesheet" href="//imsun.github.io/gitment/style/default.css">
+<script src="//imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: "http://tangyang.studio/coding/index.html",
+  owner: 'poplartang',
+  repo: 'poplartang.github.io',
+  oauth: {
+    client_id: '54a36dbc5463acd3cef8',
+    client_secret: 'fe43937f2ceb022c55c5d457421c04c12111e206',
+  },
+})
+gitment.render('gitment-ctn')
+</script>
   
 
 
