@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangyang.studio/"/>
-  <updated>2018-04-11T03:13:47.471Z</updated>
+  <updated>2018-04-11T05:43:22.738Z</updated>
   <id>http://tangyang.studio/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>思维反射</title>
+    <link href="http://tangyang.studio/2018/04/11/%E6%80%9D%E7%BB%B4%E5%8F%8D%E5%B0%84/"/>
+    <id>http://tangyang.studio/2018/04/11/思维反射/</id>
+    <published>2018-04-11T05:25:56.000Z</published>
+    <updated>2018-04-11T05:43:22.738Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们不断的学习, 目标可以分为三个阶段：</p><ol><li><p>进行长久的记忆存储</p></li><li><p>讲这些记忆进行关联</p></li><li>将这些新的关联体进行再次存储</li></ol><p>步骤2可以帮我们理解认知我们学接触到的信息，步骤3是推动这个世界的源力，我们的知识正是千百年来一代一代的人的结晶，通过各种形式把步骤3形成的新关联体以各种形式记录下来。所以我们都是站在巨人的肩膀上。</p><p>社交天才和运动天才在抽象层面上说，其机理几乎如出一辙：一个是思维记忆，另一个是肌肉记忆。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我们不断的学习, 目标可以分为三个阶段：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;进行长久的记忆存储&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;讲这些记忆进行关联&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;将这些新的关联体进行再次存储&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;步骤2可以帮我们理解认知我们学接触到的信
+      
+    
+    </summary>
+    
+    
+      <category term="思考" scheme="http://tangyang.studio/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
   
   <entry>
     <title>ReactJS - day01 入门知识</title>
