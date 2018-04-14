@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tangyang.studio/"/>
-  <updated>2018-04-13T09:44:03.180Z</updated>
+  <updated>2018-04-14T00:29:58.816Z</updated>
   <id>http://tangyang.studio/</id>
   
   <author>
@@ -17,9 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>1804-React02</title>
+    <link href="http://tangyang.studio/2018/04/1804-React02/"/>
+    <id>http://tangyang.studio/2018/04/1804-React02/</id>
+    <published>2018-04-14T00:29:58.000Z</published>
+    <updated>2018-04-14T00:29:58.816Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>日常生活营养食谱（不定期更新）</title>
-    <link href="http://tangyang.studio/2018/04/13/2018-04-13-YYSP/"/>
-    <id>http://tangyang.studio/2018/04/13/2018-04-13-YYSP/</id>
+    <link href="http://tangyang.studio/2018/04/2018-04-13-YYSP/"/>
+    <id>http://tangyang.studio/2018/04/2018-04-13-YYSP/</id>
     <published>2018-04-13T09:32:07.000Z</published>
     <updated>2018-04-13T09:44:03.180Z</updated>
     
@@ -40,8 +61,8 @@
   
   <entry>
     <title>建立并加强思维反射</title>
-    <link href="http://tangyang.studio/2018/04/11/%E6%80%9D%E7%BB%B4%E5%8F%8D%E5%B0%84/"/>
-    <id>http://tangyang.studio/2018/04/11/思维反射/</id>
+    <link href="http://tangyang.studio/2018/04/%E6%80%9D%E7%BB%B4%E5%8F%8D%E5%B0%84/"/>
+    <id>http://tangyang.studio/2018/04/思维反射/</id>
     <published>2018-04-11T05:25:56.000Z</published>
     <updated>2018-04-13T09:44:46.124Z</updated>
     
@@ -62,8 +83,8 @@
   
   <entry>
     <title>ReactJS - day01 入门知识</title>
-    <link href="http://tangyang.studio/2018/04/11/ReactJS-day01/"/>
-    <id>http://tangyang.studio/2018/04/11/ReactJS-day01/</id>
+    <link href="http://tangyang.studio/2018/04/ReactJS-day01/"/>
+    <id>http://tangyang.studio/2018/04/ReactJS-day01/</id>
     <published>2018-04-10T17:14:08.000Z</published>
     <updated>2018-04-13T14:24:03.464Z</updated>
     
@@ -86,8 +107,8 @@
   
   <entry>
     <title>关于神是否存在的思考</title>
-    <link href="http://tangyang.studio/2017/06/08/%E5%85%B3%E4%BA%8E%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8/"/>
-    <id>http://tangyang.studio/2017/06/08/关于神的存在/</id>
+    <link href="http://tangyang.studio/2017/06/%E5%85%B3%E4%BA%8E%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8/"/>
+    <id>http://tangyang.studio/2017/06/关于神的存在/</id>
     <published>2017-06-08T01:27:48.000Z</published>
     <updated>2018-04-13T10:33:47.876Z</updated>
     
@@ -108,8 +129,8 @@
   
   <entry>
     <title>写在开始的话</title>
-    <link href="http://tangyang.studio/2016/05/22/%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/"/>
-    <id>http://tangyang.studio/2016/05/22/我有一些想说的话/</id>
+    <link href="http://tangyang.studio/2016/05/%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E6%83%B3%E8%AF%B4%E7%9A%84%E8%AF%9D/"/>
+    <id>http://tangyang.studio/2016/05/我有一些想说的话/</id>
     <published>2016-05-22T04:56:05.000Z</published>
     <updated>2018-04-13T09:44:33.663Z</updated>
     
