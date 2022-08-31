@@ -1,0 +1,10 @@
+#local-search-result {
+  position: absolute;
+  background-color: white;
+  width: 100%; }
+
+#sidebar .widget .search-form {
+  overflow: visible; }
+
+#sidebar .widget .search-form input {
+  width: auto; }
