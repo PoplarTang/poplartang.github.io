@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>泡泡唐</title>
+  
+  <subtitle>在生命的回调中, 执行一些有意思的东西</subtitle>
+  <link href="http://blog.tangyang.studio/atom.xml" rel="self"/>
+  
+  <link href="http://blog.tangyang.studio/"/>
+  <updated>2022-08-31T08:19:15.389Z</updated>
+  <id>http://blog.tangyang.studio/</id>
+  
+  <author>
+    <name>PoplarTang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.tangyang.studio/2022/08/hello-world/"/>
+    <id>http://blog.tangyang.studio/2022/08/hello-world/</id>
+    <published>2022-08-31T08:19:15.389Z</published>
+    <updated>2022-08-31T08:19:15.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.啊a</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2020一年之计（庚子鼠年）</title>
+    <link href="http://blog.tangyang.studio/2020/02/2020-02-09-ynzj/"/>
+    <id>http://blog.tangyang.studio/2020/02/2020-02-09-ynzj/</id>
+    <published>2020-02-09T12:13:33.000Z</published>
+    <updated>2022-08-31T08:19:15.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>​一年之计在于春，又到了一年一度的年底打脸手册撰写季，今年2020开年我们国家将近春节的时候，爆发了一场全国范围的流感，同时，偶像科比的意外去世，注定了这一年的不平凡。</p><span id="more"></span><ul><li><p>赚钱</p><p>在任何兴趣爱好之前，首先要考虑的问题，是家人和自己的基本生活状态。对于家人，不言而喻，妻子的生活质量，孩子的教育和快乐，虽说跟金钱无关，但坦白讲钱能带来更高密度的幸福与快乐（在认为幸福感有差异的前提下）。对于自己也一样，在出租屋中打游戏，还是自己的独栋别墅中打游戏，得到的快乐真的是不同的。前者不管打赢了输了，总会觉得自己在荒废时间，后者，才谈得上在享受游戏。</p><p>今年我同样应当专注于从自己所擅长的方向去创收。</p></li><li><p>写作</p><p>虽然现在作为IT培训的讲师，但我很多时候仍然将自己定位为一个程序员，保持开发的思想，保持学习新技术的动力。故而，写作应该包括代码的编写，输出到github开源平台，以及实际意义上个人写作，输出到自己的博客，技术上的写作，输出到自己的博客和公众博客平台。</p><p>读书是保持长期高质量的写作的前提，同样也能提高我本职工作的表达能力，语言组织能力。不断的写作，帮助我凝练语言，用最直观贴切的语言，描述抽象的知识概念。</p><p>写作短期来看，是一段真正意义上的思考，可以帮助我们静下来咀嚼最近的事情，等同于吾日三省吾身的效果。长期来看，稳定有效的输出，是个人实力的积累，在当下程序员的行当，个人的能力隐藏在两个地方，一个是我们写的代码，一个是我们脑海里的编程思想。不骄傲的说，程序员很多时候，会像硅谷钢铁侠——马斯克，表达自己的想法的时候磕磕巴巴（参考<a href="https://www.bilibili.com/video/av65925736">2019世界人工智能大会—马云对话马斯克</a>），但是脑子里又确实有大量的存货，可以称之为嘴巴跟不上思想。所以，当一个行业内的人想了解你的时候，能够读到并读懂你代码的人屈指可数，但是一个清晰明了的博客链接，却是他深入了解你的极佳方式。</p></li><li><p>篮球</p><p>锻炼身体，控制体重，加强对身体大肌肉的控制能力。</p></li></ul><p>作为孩子的榜样，身体和思想都要在路上。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;​	一年之计在于春，又到了一年一度的年底打脸手册撰写季，今年2020开年我们国家将近春节的时候，爆发了一场全国范围的流感，同时，偶像科比的意外去世，注定了这一年的不平凡。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常生活" scheme="http://blog.tangyang.studio/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="http://blog.tangyang.studio/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人是否应该为知道的太多而烦恼</title>
+    <link href="http://blog.tangyang.studio/2019/03/2019-03-22-zddtd/"/>
+    <id>http://blog.tangyang.studio/2019/03/2019-03-22-zddtd/</id>
+    <published>2019-03-22T04:42:46.000Z</published>
+    <updated>2022-08-31T08:19:15.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>​以前的我会执着的认为，人不应该因为自己知道的太多而烦恼，现在的我认为，这或许是一种固执的想法。</p><span id="more"></span><p>​每个人的精力是有限的，当我们掌握了过多的正面或负面的信息之后，并不一定能对我们的判断有更好的促进，更多的信息意味着我们很可能会迷失在对细节的追逐，而这往往会影响我们做出最贴近直觉的判断。对信息的获取或屏蔽，是每个人在处理不同问题时的不同方式。我们不能一味的无知，也不能一味的求知。</p><p>​</p><p><img src="https://poplartang.oss-cn-shenzhen.aliyuncs.com/blog/2019-04/zddd.jpg?x-oss-process=image/resize,m_lfit,w_300,h_600" alt="知道的太多"></p><p>​但是，理智又会告诉我们，对这个世界的真想了解的越多，我们越能在危机即将来临时，做好该有的准备，不至于认为一切都是命。</p><p>​因为更多的信息往往带来的是痛苦——“知道的越多，痛苦就越多”。</p><p>​比如这些事情：我们永远不知道也不希望知道，快递外卖的原材料来源有多奇怪，制作过程有多么混乱，安全卫生有多简陋，我们宁愿固执相信自己吃下的披萨经过了严格的安全检验。我们不需要，也不必知道同事工资，如果自己的心态不好，那带不来任何益处，只能带来傲慢与偏见。对个人而言，疾病是我们必须正确面对及认识的事情，定期体检十分必要，然而依然有很多人，身上出现了极大的不适，才去医院检查身体。仿佛这种不适只是不幸运，跟自己的经历毫无关系，关于身体的信息，我们提早知道，掌握的越多，就能避免越多的风险。</p><p>​一个良好的心态很重要，以应对各种突如其来的事件，知道的越多，在作出决策的时候，权衡的利弊就越全面。有些事情我们不知道，并不代表没发生。还有一些事情，正因为我们害怕了解，而无法真正了解，由此造成了一些本可以解决和规避的问题无法提前做预案，那才是更加可悲的存在，完全无法体现出人的主观能动性和意志力。</p><p>​在现如今的信息爆炸的世界，可能我们绝大多数人处在前两个状态：沉浸在鸟语花香的围墙中，在围墙边缘看到了世界的残破不堪。在心底里保持一个信仰：太阳照常升起，乌云总会散去。</p><p><img src="https://poplartang.oss-cn-shenzhen.aliyuncs.com/blog/2019-04/zddtd.jpg" alt="拨开天空的乌云"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;​	以前的我会执着的认为，人不应该因为自己知道的太多而烦恼，现在的我认为，这或许是一种固执的想法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="所思所想" scheme="http://blog.tangyang.studio/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+    
+    <category term="瞎想" scheme="http://blog.tangyang.studio/tags/%E7%9E%8E%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日常生活营养食谱（不定期更新）</title>
+    <link href="http://blog.tangyang.studio/2018/04/2018-04-13-YYSP/"/>
+    <id>http://blog.tangyang.studio/2018/04/2018-04-13-YYSP/</id>
+    <published>2018-04-13T09:32:07.000Z</published>
+    <updated>2022-08-31T08:19:15.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>每个食材都有它独特的味道，每味佐料都有它特殊的用处，味蕾不同的体验和饱腹感是健康的保障，也是幸福的来源。每天的家庭生活都是要重复做很多菜，这里做个记录，以便不断优化菜品。认真对待做菜就是认真对待生活。</p><span id="more"></span><p>说明：以下菜品食材部分，为了避免重复，省去油和盐这种必备的描述，在步骤里会有所体现。</p><h2 id="下饭菜"><a href="#下饭菜" class="headerlink" title="下饭菜"></a>下饭菜</h2><h3 id="酸辣土豆丝"><a href="#酸辣土豆丝" class="headerlink" title="酸辣土豆丝"></a>酸辣土豆丝</h3><blockquote><p>好的下饭菜，往往使用的都是最简单的食材</p></blockquote><ul><li><p>食材：</p><p>土豆2个，蒜瓣2瓣、小葱3根，小红椒2根、生抽</p></li><li><p>步骤：</p><p>土豆削皮擦丝儿，用清水淘三遍去淀粉防粘锅（<strong>这一步不能忘</strong>），泡上水；蒜2瓣切末，小葱三根切碎，2根小红椒切碎，锅放油，把土豆丝水倒出，等烧热微微冒烟，下蒜末，倒土豆丝，翻炒，下小红椒碎末。放生抽，食盐，葱花，出锅。香喷喷，隔壁老王都流口水！</p></li></ul><h3 id="西红柿炒蛋"><a href="#西红柿炒蛋" class="headerlink" title="西红柿炒蛋"></a>西红柿炒蛋</h3><blockquote><p>这个是真的香，奇怪为什么西红柿和番茄会这么般配</p></blockquote><ul><li><p>食材：</p><p>西红柿2个，鸡蛋2个，砂糖，葱花，蒜瓣</p></li><li><p>步骤：</p><p>西红柿切块（有时间可以先用开水烫下，扒了皮），撒糖（<strong>这一步不能忘</strong>，撒多少看你手感），俩鸡蛋打碗里搅拌一下，锅里放油烧温热，倒鸡蛋液，等一会儿凝固了点再翻炒，放葱白和蒜瓣，把鸡蛋推在锅的一边，倒入西红柿，用铲子捣成小块，让西红柿汁流出来跟鸡蛋大和谐，翻炒，看锅突然冒出一股热气，放盐，翻两下出锅。美滋滋，一盘菜下两碗饭。</p></li></ul><p>酸辣白菜</p><p>青椒炒肉</p><p>韭菜苔炒蛋</p><p>秋葵炒鸡蛋</p><p>可乐鸡翅</p><blockquote><p>收汁，收汁，一定要收汁</p></blockquote><p>辣子鸡&#x2F;鸭</p><p>红烧茄子</p><p>辣炒花蛤</p><p>黄焖鸡 (会吃不会做)</p><p>红烧鱼</p><p>肉末豆角</p><p>宫保鸡丁 (会吃不会做)</p><p>孜然牛肉土豆片 (会吃不会做)</p><p>手撕包菜 (会吃不会做)</p><p>干锅菜花 (会吃不会做)</p><h2 id="凉菜"><a href="#凉菜" class="headerlink" title="凉菜"></a>凉菜</h2><p>凉拌黄瓜</p><p>凉拌海带丝</p><p>凉拌木耳</p><h2 id="煲汤"><a href="#煲汤" class="headerlink" title="煲汤"></a>煲汤</h2><p>鱼头汤&#x2F;鲫鱼汤</p><p>小鸡炖蘑菇</p><p>冬瓜排骨汤</p><p>[紫菜]西红柿蛋汤</p><h2 id="面食"><a href="#面食" class="headerlink" title="面食"></a>面食</h2><h3 id="鸡蛋面疙瘩"><a href="#鸡蛋面疙瘩" class="headerlink" title="鸡蛋面疙瘩"></a>鸡蛋面疙瘩</h3><blockquote><p>配合咸菜，可作为早晚餐，相当美滋滋！</p></blockquote><ul><li><p>食材：</p><p>面粉，鸡蛋1-2个</p></li><li><p>步骤：</p><p>起锅上水烧开，烧水过程中，面粉掺凉水搅和成面浆，能稍微挂筷即可，鸡蛋打散备用。</p><p>水烧开后，倒入面浆水，边倒边用筷子搅和锅。开大火煮开后，转小火，倒入鸡蛋，搅和搅和，2分钟后关火开吃。</p></li></ul><h3 id="焖面"><a href="#焖面" class="headerlink" title="焖面"></a>焖面</h3><blockquote><p>适合午饭晚饭，吃的时候就上大蒜，香喷喷！</p></blockquote><ul><li><p>食材：</p><p>肉丝，扁豆角，面条（干湿均可）</p></li><li><p>步骤：</p><ol><li><p>肉切似，豆角切中段。锅下油，油热下肉丝，炒至肉表面泛焦黄，放葱、蒜、生抽，倒入豆角，煸炒。</p></li><li><p>加热水至没过菜。水烧开后转小火，将面条均匀盖在菜上，在面上稍撒生抽，盖锅盖，焖10分钟，关火。</p></li><li><p>开盖，用筷子将面和菜拌匀即可，盛碗开吃。</p></li></ol></li></ul><p>番茄鸡蛋面</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;每个食材都有它独特的味道，每味佐料都有它特殊的用处，味蕾不同的体验和饱腹感是健康的保障，也是幸福的来源。每天的家庭生活都是要重复做很多菜，这里做个记录，以便不断优化菜品。认真对待做菜就是认真对待生活。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日常生活" scheme="http://blog.tangyang.studio/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="http://blog.tangyang.studio/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>思维反射&amp;肌肉反射</title>
+    <link href="http://blog.tangyang.studio/2018/04/%E6%80%9D%E7%BB%B4%E5%8F%8D%E5%B0%84/"/>
+    <id>http://blog.tangyang.studio/2018/04/%E6%80%9D%E7%BB%B4%E5%8F%8D%E5%B0%84/</id>
+    <published>2018-04-11T05:25:56.000Z</published>
+    <updated>2022-08-31T08:19:15.390Z</updated>
+    
+    <content type="html"><![CDATA[<p>将学习过程和能力形成的过程进行分析，在进行新技能的认知过程中，我们可以有迹可循，从而通过形成快速认知习惯加快认知过程本身。</p><span id="more"></span><p>我们不断的学习, 目标可以分为三个阶段：</p><ol><li>进行长久的记忆存储</li><li>讲这些记忆进行关联</li><li>将这些新的关联体进行再次存储</li></ol><p>步骤2可以帮我们理解认知我们学接触到的信息，步骤3是推动这个世界的源力，我们的知识正是千百年来一代一代的人的结晶，通过各种形式把步骤3形成的新关联体以各种形式记录下来。所以我们都是站在巨人的肩膀上。</p><p>社交天才和运动天才在抽象层面上说，其机理几乎如出一辙：一个是思维记忆，另一个是肌肉记忆。前者可以让我们思考更迅速、全面，或者可以让我们反应更灵敏、有节奏感。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;将学习过程和能力形成的过程进行分析，在进行新技能的认知过程中，我们可以有迹可循，从而通过形成快速认知习惯加快认知过程本身。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="所思所想" scheme="http://blog.tangyang.studio/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+    
+    <category term="瞎想" scheme="http://blog.tangyang.studio/tags/%E7%9E%8E%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于神是否存在的思考</title>
+    <link href="http://blog.tangyang.studio/2017/06/%E5%85%B3%E4%BA%8E%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8/"/>
+    <id>http://blog.tangyang.studio/2017/06/%E5%85%B3%E4%BA%8E%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8/</id>
+    <published>2017-06-08T01:27:48.000Z</published>
+    <updated>2022-08-31T08:19:15.389Z</updated>
+    
+    <content type="html"><![CDATA[<p>面对未知，人们总会善于做出归纳总结，也许这样会带来安全感。未知的东西也许如薛定谔的猫一样，在盒子未打开之前，猫如同真相一样是处于生和死的叠加态的。</p><span id="more"></span><h2 id="你说神不存在"><a href="#你说神不存在" class="headerlink" title="你说神不存在?"></a>你说神不存在?</h2><p>最常用的反驳类似于</p><blockquote><p>一个全能的个体能够创造一块连他自己都搬不动的石头吗？</p></blockquote><p>但也许对话会是这样的:</p><figure class="highlight"><table><tr><td class="code"><pre><span class="line">我：你能创造出一块你举不起来的石头吗？</span><br><span class="line">真正的神：能啊，我这就造一个</span><br><span class="line">（石头凭空出现）</span><br><span class="line">真正的神：这就是我举不起来的石头</span><br><span class="line">我：你能把这块你举不起来的石头举起来吗？</span><br><span class="line">真正的神：能啊，你看我给你举一个</span><br><span class="line">（举起来了）</span><br><span class="line">我：你不是说你举不起来吗？！</span><br><span class="line">真正的神：我确实举不起来</span><br><span class="line">我：可是你举起来了！</span><br><span class="line">真正的神：是的，我可以随我的主观意愿做到或做不到所有事情</span><br><span class="line">我：什么TM是的，这在逻辑上根本就说不通！！！</span><br><span class="line">真正的神：用不着说通，逻辑也是我创造的</span><br></pre></td></tr></table></figure><h2 id="你说神存在"><a href="#你说神存在" class="headerlink" title="你说神存在?"></a>你说神存在?</h2><p>如果神希望大家都信奉、臣服、敬畏祂。那只需要简单的彰显一下自己的与众不同即可。神为何只创造并观察这个世界，不去做任何干扰？比如明目张胆的显示神迹</p><p>如果祂的存在是唯一的，祂为什么默许人类在世间对其进行各种胡编乱造</p><p>如果神的慈爱的，纵观历史长河，何来天地不仁以万物为刍狗</p><h2 id="叠加态"><a href="#叠加态" class="headerlink" title="叠加态"></a>叠加态</h2><p>这个世界的魅力之一在于一些终极问题在长的时间维度上没有定论，人们在不断从各种角度试探、攻克才精雕细琢出世界的<strong>真相</strong>。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;面对未知，人们总会善于做出归纳总结，也许这样会带来安全感。未知的东西也许如薛定谔的猫一样，在盒子未打开之前，猫如同真相一样是处于生和死的叠加态的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="所思所想" scheme="http://blog.tangyang.studio/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+    
+    <category term="瞎想" scheme="http://blog.tangyang.studio/tags/%E7%9E%8E%E6%83%B3/"/>
+    
+  </entry>
+  
+</feed>
